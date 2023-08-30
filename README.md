@@ -1,5 +1,5 @@
 ## Ivan Shkredov 
-### Junior QA Engineer / AQA Engineer
+### QA Engineer / AQA Engineer
 ### My Contact Info:
 Location: Vitebsk, Belarus 
 
