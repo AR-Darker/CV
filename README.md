@@ -31,6 +31,7 @@ I'm 20 years old. I have an experience in Software Testing about a year. Also, i
  [Certificate](https:// "описание")
 
  ### Code Example
+ 
 Diploma project: [Jefit](https://github.com/AR-Darker/Jefit "описание")
 
 ## Experience
