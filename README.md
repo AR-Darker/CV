@@ -23,6 +23,8 @@ I'm 20 years old. I have an experience in Software Testing about a year. Also, i
 * SQL
 * Java
 * Selenium
+* Selenide
+* TestNG
 * Requirements testing
 
 ### Education
