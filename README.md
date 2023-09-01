@@ -30,6 +30,9 @@ I'm 20 years old. I have an experience in Software Testing about a year. Also, i
  
  [Certificate](https:// "описание")
 
+ ### Code Example
+Diploma project: [Jefit](https://github.com/AR-Darker/Jefit "описание")
+
 ## Experience
 * Experience in testing web-based applications
 * Development and maintenance of functional test cases and other test artifacts like test data and bug reports
@@ -40,5 +43,5 @@ I'm 20 years old. I have an experience in Software Testing about a year. Also, i
 
 ## Languages
 * Russian *native*
-* Enginsh *Upper-intermediate/Advanced* (according to the online test at EFset www.efset.org) [Certificate](https://www.efset.org/cert/8onmm5
+* Enginsh *Upper-intermediate/Advanced* (according to the online test at Efset www.efset.org) [Certificate](https://www.efset.org/cert/8onmm5
  "описание")
