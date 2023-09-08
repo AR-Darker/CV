@@ -19,9 +19,11 @@ I'm 20 years old. I have an experience in Software Testing about a year. Also, i
 ## Skills
 * Manual testing
 * Requirements testing
+* Test Automatization
 * Jira
 * TestRail 
 * SQL
+* Git
 * Java
 * Postman
 * Selenium
