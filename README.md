@@ -37,7 +37,7 @@ I'm 20 years old. I have an experience in Software Testing about a year. Also, i
 * Experience in testing web-based applications
 * Development and maintenance of functional test cases and other test artifacts like test data and bug reports
 * Execution and evaluation of test cases and reportingof test results
-* Experience in use of test-management (QASE) and bug tracking tools (ClickUp)
+* Experience in usage of test-management and bug tracking tools 
 * Experience in SQL, RESTfull services
 * Experience in writing Automated tests in Java (Selenium + TestNG)
 
