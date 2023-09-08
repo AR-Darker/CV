@@ -18,22 +18,20 @@ I'm 20 years old. I have an experience in Software Testing about a year. Also, i
 
 ## Skills
 * Manual testing
-* ClickUp
-* QASE
+* Requirements testing
+* Jira
+* TestRail 
 * SQL
 * Java
+* Postman
 * Selenium
 * Selenide
 * TestNG
-* Requirements testing
 
 ### Education
  * Software Testing, Computer Academy STEP, Vitebsk 
  
  [Certificate](https:// "описание")
-
-## Code Example
-Diploma project: [Jefit](https://github.com/AR-Darker/Jefit "описание")
 
 ## Experience
 * Experience in testing web-based applications
